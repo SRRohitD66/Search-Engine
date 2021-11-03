@@ -1,7 +1,8 @@
 # Search-Engine
-Creating a Search engine using Boolean model and Ranked Retrieval to search word or pharase in  all files(pdf,text,word etc) in system that are readable
-Our Program uses Boolean search for one word and Boolean query.
-And Ranked Retrieval for phrase query or sentence or text no greater than 1.
+Creating a Search engine using Boolean model and Ranked Retrieval to search word or pharasen from the files(pdf,text,word etc) in the system that are readable.
+We created this program using python programming language.
+Our Program uses Boolean search for a single word or a Boolean query.
+Ranked Retrieval for phrase query or sentence or text no greater than 1.
 This Search Engine is able to distinguish between Boolean query and Pharase query.
-For Boolean result a list of files  which consist our query and while rank retrieval it gives result according to score(the file with high score will be first in our result following the other with respective score in descreasing order.
-We developed this using python programming language.
+For Boolean result a list of files  which consist our query and in rank retrieval it gives result according to score(the file with high score will be first in our result following the other with respective score in descreasing order).
+
